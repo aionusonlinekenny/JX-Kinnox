@@ -1,0 +1,34 @@
+
+*
+***** S3Relay Start (@ 2025/09/03 20:25:14.310) >>>>>
+*
+
+[2025/09/03 20:25:14] 1 -- Initializing ...
+[2025/09/03 20:25:14] 2 -- relay server startup
+[2025/09/03 20:25:14] 3 -- gateway client create: 192.168.254.53
+[2025/09/03 20:25:14] 4 -- host server startup
+[2025/09/03 20:25:14] 5 -- tong server startup
+[2025/09/03 20:25:14] 6 -- chat server startup
+[2025/09/03 20:25:14] 7 -- SockThread start success
+[2025/09/03 20:25:14] 8 -- tong database open ok!
+[2025/09/03 20:25:14] 9 -- tongset init ok !
+[2025/09/03 20:25:14] 10 -- Initialize OK
+[2025/09/03 20:25:29] 11 -- host connect create: 192.168.254.53
+[2025/09/03 20:25:29] 12 -- chat connect create: 192.168.254.53
+[2025/09/03 20:25:29] 13 -- tong connect create: 192.168.254.53
+[2025/09/03 20:42:42] 14 -- host connect close: 192.168.254.53
+[2025/09/03 20:42:42] 15 -- chat connect close: 192.168.254.53
+[2025/09/03 20:42:42] 16 -- tong connect close: 192.168.254.53
+[2025/09/03 20:42:42] 17 -- Uninitializing ...
+[2025/09/03 20:42:42] 18 -- SockThread stop success
+[2025/09/03 20:42:42] 19 -- chat server shutdown
+[2025/09/03 20:42:42] 20 -- tong server shutdown
+[2025/09/03 20:42:42] 21 -- host server shutdown
+[2025/09/03 20:42:42] 22 -- gateway client close: 192.168.254.53
+[2025/09/03 20:42:42] 23 -- relay server shutdown
+[2025/09/03 20:42:42] 24 -- Uninitialize OK
+
+*
+***** S3Relay Stop (@ 2025/09/03 20:42:42.859) <<<<<
+*
+

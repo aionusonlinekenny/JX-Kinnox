@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: d3dframe - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPB72D.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /Fp".\Release/d3dframe.pch" /YX /Fo".\Release/" /Fd".\Release/" /FD /c 
+"F:\天骄\JX_Source\Sources\Represent\D3DFrame\d3dfile.cpp"
+"F:\天骄\JX_Source\Sources\Represent\D3DFrame\d3dmath.cpp"
+"F:\天骄\JX_Source\Sources\Represent\D3DFrame\d3dtextr.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPB72D.tmp" 
+Creating command line "link.exe -lib /nologo /out:".\Release\d3dframe.lib"  ".\Release\d3dapp.obj" ".\Release\d3denum.obj" ".\Release\d3dfile.obj" ".\Release\d3dframe.obj" ".\Release\d3dmath.obj" ".\Release\d3dtextr.obj" ".\Release\d3dutil.obj" "
+<h3>Output Window</h3>
+Compiling...
+d3dfile.cpp
+d3dmath.cpp
+d3dtextr.cpp
+Creating library...
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPC065.bat" with contents
+[
+@echo off
+copy Release\d3dframe.lib ..\..\library\d3dlib\d3dframe.lib
+]
+Creating command line "C:\Users\ADMINI~1\AppData\Local\Temp\RSPC065.bat"
+
+已复制         1 个文件。
+
+
+
+<h3>Results</h3>
+d3dframe.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

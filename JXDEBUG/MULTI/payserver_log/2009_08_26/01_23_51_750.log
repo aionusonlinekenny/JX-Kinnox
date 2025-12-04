@@ -1,0 +1,209 @@
+
+*
+***** Sword3PaySys Start (@ 2009/08/26 01:23:51.750) >>>>>
+*
+
+[2009/08/26 01:24:20] 1 >> DB Connect 0 is busy !
+[2009/08/26 01:24:20] 2 >> Add Gateway(192.168.1.88 : 1798) Client 0 ! -- At 0
+[2009/08/26 01:24:20] 3 >> DB Connect 0 is free !
+[2009/08/26 01:24:20] 4 >> DB Connect 0 is busy !
+[2009/08/26 01:24:20] 5 >> Gateway (192.168.1.88)001E-4C67-82F9: Name, Password !
+[2009/08/26 01:24:20] 6 >> Remove Gateway Client 0 ! -- At 0
+[2009/08/26 01:24:23] 7 >> DB Connect 0 is free !
+[2009/08/26 01:24:26] 8 >> DB Connect 0 is busy !
+[2009/08/26 01:24:26] 9 >> Add Gateway(192.168.1.88 : 1799) Client 1 ! -- At 0
+[2009/08/26 01:24:26] 10 >> DB Connect 0 is free !
+[2009/08/26 01:24:26] 11 >> DB Connect 0 is busy !
+[2009/08/26 01:24:26] 12 >> Gateway (192.168.1.88)001E-4C67-82F9: Name, Password !
+[2009/08/26 01:24:26] 13 >> Remove Gateway Client 1 ! -- At 0
+[2009/08/26 01:24:29] 14 >> DB Connect 0 is free !
+[2009/08/26 01:25:35] 15 >> DB Connect 0 is busy !
+[2009/08/26 01:25:35] 16 >> Add Gateway(192.168.1.88 : 1834) Client 2 ! -- At 0
+[2009/08/26 01:25:35] 17 >> DB Connect 0 is free !
+[2009/08/26 01:25:35] 18 >> DB Connect 0 is busy !
+[2009/08/26 01:25:35] 19 >> Gateway (192.168.1.88)001E-4C67-82F9: Name, Password !
+[2009/08/26 01:25:35] 20 >> Remove Gateway Client 2 ! -- At 0
+[2009/08/26 01:25:35] 21 >> DB Connect 0 is free !
+[2009/08/26 01:25:47] 22 >> DB Connect 0 is busy !
+[2009/08/26 01:25:47] 23 >> Add Gateway(192.168.1.88 : 1835) Client 3 ! -- At 0
+[2009/08/26 01:25:47] 24 >> DB Connect 0 is free !
+[2009/08/26 01:25:47] 25 >> DB Connect 0 is busy !
+[2009/08/26 01:25:47] 26 >> Gateway (192.168.1.88)001E-4C67-82F9: Name, Password !
+[2009/08/26 01:25:47] 27 >> Remove Gateway Client 3 ! -- At 0
+[2009/08/26 01:25:50] 28 >> DB Connect 0 is free !
+[2009/08/26 01:26:02] 29 >> DB Connect 0 is busy !
+[2009/08/26 01:26:02] 30 >> Add Gateway(192.168.1.88 : 1836) Client 4 ! -- At 0
+[2009/08/26 01:26:02] 31 >> DB Connect 0 is free !
+[2009/08/26 01:26:02] 32 >> DB Connect 0 is busy !
+[2009/08/26 01:26:02] 33 >> Gateway (192.168.1.88)001E-4C67-82F9: Name, Password !
+[2009/08/26 01:26:02] 34 >> Remove Gateway Client 4 ! -- At 0
+[2009/08/26 01:26:02] 35 >> DB Connect 0 is free !
+[2009/08/26 01:27:17] 36 >> DB Connect 0 is busy !
+[2009/08/26 01:27:17] 37 >> Add Gateway(192.168.1.88 : 1839) Client 5 ! -- At 0
+[2009/08/26 01:27:17] 38 >> DB Connect 0 is free !
+[2009/08/26 01:27:17] 39 >> DB Connect 0 is busy !
+[2009/08/26 01:27:17] 40 >> Gateway (192.168.1.88)001E-4C67-82F9: Name, Password !
+[2009/08/26 01:27:17] 41 >> Remove Gateway Client 5 ! -- At 0
+[2009/08/26 01:27:20] 42 >> DB Connect 0 is free !
+[2009/08/26 01:30:20] 43 >> DB Connect 0 is busy !
+[2009/08/26 01:30:20] 44 >> Add Gateway(192.168.1.88 : 1840) Client 6 ! -- At 0
+[2009/08/26 01:30:20] 45 >> DB Connect 0 is free !
+[2009/08/26 01:30:20] 46 >> DB Connect 0 is busy !
+[2009/08/26 01:30:20] 47 >> Gateway (192.168.1.88)001E-4C67-82F9: Name, Password !
+[2009/08/26 01:30:20] 48 >> Remove Gateway Client 6 ! -- At 0
+[2009/08/26 01:30:20] 49 >> DB Connect 0 is free !
+[2009/08/26 01:30:38] 50 >> DB Connect 0 is busy !
+[2009/08/26 01:30:38] 51 >> Add Gateway(192.168.1.88 : 1841) Client 7 ! -- At 0
+[2009/08/26 01:30:38] 52 >> DB Connect 0 is free !
+[2009/08/26 01:30:38] 53 >> DB Connect 0 is busy !
+[2009/08/26 01:30:38] 54 >> Gateway (192.168.1.88)001E-4C67-82F9: Name, Password !
+[2009/08/26 01:30:38] 55 >> Remove Gateway Client 7 ! -- At 0
+[2009/08/26 01:30:38] 56 >> DB Connect 0 is free !
+[2009/08/26 01:31:38] 57 >> DB Connect 0 is busy !
+[2009/08/26 01:31:38] 58 >> Add Gateway(192.168.1.88 : 1945) Client 8 ! -- At 0
+[2009/08/26 01:31:38] 59 >> DB Connect 0 is free !
+[2009/08/26 01:31:38] 60 >> DB Connect 0 is busy !
+[2009/08/26 01:31:38] 61 >> Gateway free(192.168.1.88)001E-4C67-82F9: Verify OK !
+[2009/08/26 01:31:38] 62 >> Gateway unlock OK!
+[2009/08/26 01:31:38] 63 >> Gateway Connect OK!
+[2009/08/26 01:31:38] 64 >> DB Connect 0 is free !
+[2009/08/26 01:31:47] 65 >> Gateway free(192.168.1.88): Ping 11(s)
+[2009/08/26 01:31:59] 66 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:32:08] 67 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:32:17] 68 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:32:29] 69 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:32:38] 70 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:32:44] 71 >> DB Connect 0 is busy !
+[2009/08/26 01:32:44] 72 >> Gateway free(192.168.1.88): User yaosky Login Failed ! --- Name, Password
+[2009/08/26 01:32:44] 73 >> DB Connect 0 is free !
+[2009/08/26 01:32:47] 74 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:32:50] 75 >> DB Connect 0 is busy !
+[2009/08/26 01:32:50] 76 >> Gateway free(192.168.1.88): User yaosky Login Failed ! --- Name, Password
+[2009/08/26 01:32:50] 77 >> DB Connect 0 is free !
+[2009/08/26 01:32:59] 78 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:33:08] 79 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:33:17] 80 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:33:29] 81 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:33:38] 82 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:33:47] 83 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:33:59] 84 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:34:08] 85 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:34:17] 86 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:34:29] 87 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:34:38] 88 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:34:50] 89 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:34:53] 90 >> DB Connect 0 is busy !
+[2009/08/26 01:34:53] 91 >> Gateway free(192.168.1.88): User yaosky Login Failed ! --- Name, Password
+[2009/08/26 01:34:56] 92 >> DB Connect 0 is free !
+[2009/08/26 01:34:59] 93 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:35:08] 94 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:35:11] 95 >> DB Connect 0 is busy !
+[2009/08/26 01:35:11] 96 >> Gateway free(192.168.1.88): User yaosky Login Failed ! --- Name, Password
+[2009/08/26 01:35:11] 97 >> DB Connect 0 is free !
+[2009/08/26 01:35:20] 98 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:35:20] 99 >> DB Connect 0 is busy !
+[2009/08/26 01:35:20] 100 >> Gateway free(192.168.1.88): User yaosky Login Failed ! --- Name, Password
+[2009/08/26 01:35:20] 101 >> DB Connect 0 is free !
+[2009/08/26 01:35:29] 102 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:35:38] 103 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:35:50] 104 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:35:59] 105 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:36:08] 106 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:36:20] 107 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:36:29] 108 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:36:35] 109 >> DB Connect 0 is busy !
+[2009/08/26 01:36:35] 110 >> Gateway free(192.168.1.88): User test Login Failed ! --- Name, Password
+[2009/08/26 01:36:38] 111 >> DB Connect 0 is free !
+[2009/08/26 01:36:38] 112 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:36:50] 113 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:36:59] 114 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:37:08] 115 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:37:20] 116 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:37:29] 117 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:37:38] 118 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:37:44] 119 >> DB Connect 0 is busy !
+[2009/08/26 01:37:44] 120 >> Gateway free(192.168.1.88): User yaosky Login Failed ! --- Name, Password
+[2009/08/26 01:37:44] 121 >> DB Connect 0 is free !
+[2009/08/26 01:37:50] 122 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:37:59] 123 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:38:08] 124 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:38:20] 125 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:38:29] 126 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:38:38] 127 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:38:50] 128 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:38:59] 129 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:39:08] 130 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:39:20] 131 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:39:29] 132 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:39:38] 133 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:39:50] 134 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:39:59] 135 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:40:08] 136 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:40:20] 137 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:40:29] 138 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:40:38] 139 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:40:50] 140 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:40:59] 141 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:41:08] 142 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:41:20] 143 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:41:29] 144 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:41:38] 145 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:41:50] 146 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:41:59] 147 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:42:08] 148 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:42:20] 149 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:42:29] 150 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:42:38] 151 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:42:50] 152 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:42:59] 153 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:43:08] 154 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:43:17] 155 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:43:29] 156 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:43:38] 157 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:43:50] 158 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:43:59] 159 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:44:08] 160 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:44:20] 161 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:44:29] 162 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:44:38] 163 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:44:50] 164 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:44:59] 165 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:45:08] 166 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:45:20] 167 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:45:26] 168 >> DB Connect 0 is busy !
+[2009/08/26 01:45:26] 169 >> Gateway free(192.168.1.88): User yaosky Login Failed ! --- Name, Password
+[2009/08/26 01:45:26] 170 >> DB Connect 0 is free !
+[2009/08/26 01:45:29] 171 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:45:41] 172 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:45:47] 173 >> DB Connect 0 is busy !
+[2009/08/26 01:45:47] 174 >> Gateway free(192.168.1.88): User yaosky Login Failed ! --- Name, Password
+[2009/08/26 01:45:47] 175 >> DB Connect 0 is free !
+[2009/08/26 01:45:50] 176 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:45:56] 177 >> DB Connect 0 is busy !
+[2009/08/26 01:45:56] 178 >> Gateway free(192.168.1.88): User yaosky Login Failed ! --- Name, Password
+[2009/08/26 01:45:59] 179 >> DB Connect 0 is free !
+[2009/08/26 01:45:59] 180 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:46:11] 181 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:46:20] 182 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:46:29] 183 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:46:41] 184 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:46:50] 185 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:46:59] 186 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:47:11] 187 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:47:20] 188 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:47:29] 189 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:47:41] 190 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:47:50] 191 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:47:59] 192 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:48:11] 193 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:48:20] 194 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:48:29] 195 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:48:41] 196 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:48:50] 197 >> Gateway free(192.168.1.88): Ping 10(s)
+[2009/08/26 01:48:59] 198 >> Remove Gateway Client 8 ! -- At 0
+[2009/08/26 01:49:07] Nomal exit !!!
+
+*
+***** Sword3PaySys Stop (@ 2009/08/26 01:49:07.687) <<<<<
+*
+

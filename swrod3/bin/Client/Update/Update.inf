@@ -1,0 +1,15 @@
+[UpdateSelf]
+SrcFile0=D:\swrod3\bin\Client\Update\updatedll.dll
+DesFile0=D:\swrod3\bin\Client\updatedll.dll
+SrcFile1=D:\swrod3\bin\Client\Update\represent3.dll
+DesFile1=D:\swrod3\bin\Client\represent3.dll
+SrcFile2=D:\swrod3\bin\Client\Update\represent2.dll
+DesFile2=D:\swrod3\bin\Client\represent2.dll
+SrcFile3=D:\swrod3\bin\Client\Update\jxonline.exe
+DesFile3=D:\swrod3\bin\Client\jxonline.exe
+SrcFile4=D:\swrod3\bin\Client\Update\engine.dll
+DesFile4=D:\swrod3\bin\Client\engine.dll
+SrcFile5=D:\swrod3\bin\Client\Update\autoupdateres.dll
+DesFile5=D:\swrod3\bin\Client\autoupdateres.dll
+Parameter=/CONTINUE 
+FullPathName=D:\swrod3\bin\Client\JXOnline.exe

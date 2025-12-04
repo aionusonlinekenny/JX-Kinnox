@@ -1,0 +1,55 @@
+
+*
+***** S3Relay Start (@ 2009/08/26 01:31:47.468) >>>>>
+*
+
+[2009/08/26 01:31:48] 1 -- Initializing ...
+[2009/08/26 01:31:48] 2 -- Create Channel: [Stock, GM] <00000000> GM
+[2009/08/26 01:31:48] 3 -- Create Channel: [Stock] <00000001>  ¿ΩÁ
+[2009/08/26 01:31:48] 4 -- friend timing update db: start
+[2009/08/26 01:31:48] 5 -- relay server startup
+[2009/08/26 01:31:48] 6 -- root client create: 192.168.1.88
+[2009/08/26 01:31:48] 7 -- DBRole client create: 192.168.1.88
+[2009/08/26 01:31:48] 8 -- gateway client create: 192.168.1.88
+[2009/08/26 01:31:48] 9 -- host server startup
+[2009/08/26 01:31:48] 10 -- tong server startup
+[2009/08/26 01:31:48] 11 -- chat server startup
+[2009/08/26 01:31:48] 12 -- SockThread start success
+[2009/08/26 01:31:48] 13 -- start autotimer for Ping: 192.168.1.88
+[2009/08/26 01:31:48] 14 -- tong database open ok!
+[2009/08/26 01:31:48] 15 -- tongset init ok !
+[2009/08/26 01:31:48] 16 -- Initialize OK
+[2009/08/26 01:32:20] 17 -- host connect create: 192.168.1.88
+[2009/08/26 01:32:20] 18 -- chat connect create: 192.168.1.88
+[2009/08/26 01:32:20] 19 -- tong connect create: 192.168.1.88
+[2009/08/26 01:33:53] 20 -- root client ping: 192.168.1.88
+[2009/08/26 01:35:53] 21 -- root client ping: 192.168.1.88
+[2009/08/26 01:36:53] 22 -- update friend DB succeed
+[2009/08/26 01:37:53] 23 -- root client ping: 192.168.1.88
+[2009/08/26 01:39:53] 24 -- root client ping: 192.168.1.88
+[2009/08/26 01:41:53] 25 -- update friend DB succeed
+[2009/08/26 01:41:53] 26 -- root client ping: 192.168.1.88
+[2009/08/26 01:43:53] 27 -- root client ping: 192.168.1.88
+[2009/08/26 01:45:53] 28 -- root client ping: 192.168.1.88
+[2009/08/26 01:46:53] 29 -- update friend DB succeed
+[2009/08/26 01:47:53] 30 -- root client ping: 192.168.1.88
+[2009/08/26 01:48:54] 31 -- tong connect close: 192.168.1.88
+[2009/08/26 01:48:54] 32 -- host connect close: 192.168.1.88
+[2009/08/26 01:48:54] 33 -- chat connect close: 192.168.1.88
+[2009/08/26 01:48:54] 34 -- Uninitializing ...
+[2009/08/26 01:48:54] 35 -- SockThread stop success
+[2009/08/26 01:48:54] 36 -- chat server shutdown
+[2009/08/26 01:48:54] 37 -- tong server shutdown
+[2009/08/26 01:48:54] 38 -- host server shutdown
+[2009/08/26 01:48:54] 39 -- gateway client close: 192.168.1.88
+[2009/08/26 01:48:54] 40 -- DBRole client close: 192.168.1.88
+[2009/08/26 01:48:54] 41 -- stop autotimer for Ping: 192.168.1.88
+[2009/08/26 01:48:54] 42 -- root client close: 192.168.1.88
+[2009/08/26 01:48:54] 43 -- relay server shutdown
+[2009/08/26 01:48:54] 44 -- friend timing update db: stop
+[2009/08/26 01:48:54] 45 -- Uninitialize OK
+
+*
+***** S3Relay Stop (@ 2009/08/26 01:48:54.296) <<<<<
+*
+

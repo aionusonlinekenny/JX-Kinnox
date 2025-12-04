@@ -1,0 +1,65 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Represent3 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPDEF.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /I "..\..\engine\include" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "REPRESENT3_EXPORTS" /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\天骄\JX_Source\Sources\Represent\Represent3\D3D_Device.cpp"
+"F:\天骄\JX_Source\Sources\Represent\Represent3\D3D_Shell.cpp"
+"F:\天骄\JX_Source\Sources\Represent\Represent3\D3D_Utils.cpp"
+"F:\天骄\JX_Source\Sources\Represent\iRepresent\Font\KCharSet.cpp"
+"F:\天骄\JX_Source\Sources\Represent\iRepresent\Font\KFont3.cpp"
+"F:\天骄\JX_Source\Sources\Represent\iRepresent\Font\KFontData.cpp"
+"F:\天骄\JX_Source\Sources\Represent\iRepresent\Font\KFontRes.cpp"
+"F:\天骄\JX_Source\Sources\Represent\iRepresent\Font\KMRU.cpp"
+"F:\天骄\JX_Source\Sources\Represent\Represent3\KRepresentShell3.cpp"
+"F:\天骄\JX_Source\Sources\Represent\iRepresent\RepresentUtility.cpp"
+"F:\天骄\JX_Source\Sources\Represent\iRepresent\Text\TextProcess.cpp"
+"F:\天骄\JX_Source\Sources\Represent\Represent3\TextureRes.cpp"
+"F:\天骄\JX_Source\Sources\Represent\Represent3\TextureResMgr.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPDEF.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPDF0.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /I "..\..\engine\include" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "REPRESENT3_EXPORTS" /Fp"Release/Represent3.pch" /Yc"precompile.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\天骄\JX_Source\Sources\Represent\Represent3\precompile.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPDF0.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPDF1.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib d3dx9dt.lib d3d9.lib winmm.lib dxguid.lib ddraw.lib GdiPlus.lib /nologo /dll /incremental:no /pdb:"Release/Represent3.pdb" /map:"Release/Represent3.map" /debug /machine:I386 /out:"Release/Represent3.dll" /implib:"Release/Represent3.lib" /libpath:"..\..\..\Lib" 
+".\Release\D3D_Device.obj"
+".\Release\D3D_Shell.obj"
+".\Release\D3D_Utils.obj"
+".\Release\KCharSet.obj"
+".\Release\KFont3.obj"
+".\Release\KFontData.obj"
+".\Release\KFontRes.obj"
+".\Release\KMRU.obj"
+".\Release\KRepresentShell3.obj"
+".\Release\precompile.obj"
+".\Release\RepresentUtility.obj"
+".\Release\TextProcess.obj"
+".\Release\TextureRes.obj"
+".\Release\TextureResMgr.obj"
+"..\..\..\Lib\release\engine.lib"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPDF1.tmp"
+<h3>Output Window</h3>
+Compiling...
+precompile.cpp
+F:\天骄\JX_Source\Sources\Represent\Represent3\precompile.h(12) : fatal error C1083: Cannot open include file: 'd3d9types.h': No such file or directory
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+Represent3.dll - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

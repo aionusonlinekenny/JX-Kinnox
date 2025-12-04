@@ -1,0 +1,34 @@
+EqType	FightStand	NormalStand1	NormalStand2	FightWalk	NormalWalk	FightRun	NormalRun	Wound	Die	Attack1	Attack2	Magic	SitDown	JunpFly
+Tay kh«ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ kiÕm 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ kiÕm 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ kiÕm 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ ®ao 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ ®ao 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+®¬n thñ ®ao 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng th­¬ng 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng th­¬ng 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng th­¬ng 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng c«n 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng c«n 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i tr­êng c«n 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song kiÕm 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song kiÕm 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Lo¹i Song kiÕm 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Lo¹i Song chïy 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Lo¹i Song chïy 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Lo¹i Song chïy 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+¸m khÝ 	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideMagic	RideMagic	RideMagic
+®¬n thñ kiÕm 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+®¬n thñ kiÕm 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+®¬n thñ ®ao 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+®¬n thñ ®ao 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Lo¹i tr­êng th­¬ng 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Lo¹i tr­êng th­¬ng 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Lo¹i tr­êng c«n 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Lo¹i tr­êng c«n 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Lo¹i Song kiÕm 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Lo¹i Song kiÕm 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Lo¹i Song chïy 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Lo¹i Song chïy 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic
+Null	RideStand	RideStand	RideStand2	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic

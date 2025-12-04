@@ -1,0 +1,102 @@
+
+*
+***** S3Relay Start (@ 2025/09/04 15:14:50.467) >>>>>
+*
+
+[2025/09/04 15:14:50] 1 -- Initializing ...
+[2025/09/04 15:14:50] 2 -- relay server startup
+[2025/09/04 15:14:50] 3 -- gateway client create: 192.168.254.53
+[2025/09/04 15:14:50] 4 -- host server startup
+[2025/09/04 15:14:50] 5 -- tong server startup
+[2025/09/04 15:14:50] 6 -- chat server startup
+[2025/09/04 15:14:50] 7 -- SockThread start success
+[2025/09/04 15:14:50] 8 -- tong database open ok!
+[2025/09/04 15:14:50] 9 -- tongset init ok !
+[2025/09/04 15:14:50] 10 -- Initialize OK
+[2025/09/04 15:15:05] 11 -- host connect create: 192.168.254.53
+[2025/09/04 15:15:05] 12 -- chat connect create: 192.168.254.53
+[2025/09/04 15:15:05] 13 -- tong connect create: 192.168.254.53
+[2025/09/04 15:15:11] 14 -- load someone: DienBaQUan
+[2025/09/04 15:15:11] 15 -- player login: 1 [DienBaQUan] (35FEA8C0, 00000000)
+[2025/09/04 15:15:11] 16 -- Query ChannelID: \S from (35FEA8C0, 00000000)
+[2025/09/04 15:15:11] 17 -- Create Channel: <00000000> \S905881792
+[2025/09/04 15:15:11] 18 -- Query ChannelID: 世界 from (35FEA8C0, 00000000)
+[2025/09/04 15:15:11] 19 -- Query ChannelID: GM from (35FEA8C0, 00000000)
+[2025/09/04 15:15:11] 20 -- Query ChannelID: \B from (35FEA8C0, 00000000)
+[2025/09/04 15:15:11] 21 -- Create Channel: <00000001> \B905881792
+[2025/09/04 15:15:11] 22 -- sync friend list: DienBaQUan (full)
+[2025/09/04 15:15:11] 23 -- Subscribe Channel: 00000000 by (35FEA8C0,00000000)
+[2025/09/04 15:15:11] 24 -- Subscribe Channel: 00000001 by (35FEA8C0,00000000)
+[2025/09/04 15:16:56] 25 -- Destroy Channel: <00000000> \S905881792
+[2025/09/04 15:16:56] 26 -- Destroy Channel: <00000001> \B905881792
+[2025/09/04 15:16:56] 27 -- player logout: 1
+[2025/09/04 22:51:58] 28 -- player login: 1 [DienBaQUan] (35FEA8C0, 00000001)
+[2025/09/04 22:51:58] 29 -- Query ChannelID: \S from (35FEA8C0, 00000001)
+[2025/09/04 22:51:58] 30 -- Create Channel: <00000002> \S905881792
+[2025/09/04 22:51:58] 31 -- sync friend list: DienBaQUan (full)
+[2025/09/04 22:51:58] 32 -- Query ChannelID: 世界 from (35FEA8C0, 00000001)
+[2025/09/04 22:51:58] 33 -- Query ChannelID: GM from (35FEA8C0, 00000001)
+[2025/09/04 22:51:58] 34 -- Query ChannelID: \B from (35FEA8C0, 00000001)
+[2025/09/04 22:51:58] 35 -- Create Channel: <00000003> \B905881792
+[2025/09/04 22:51:58] 36 -- Subscribe Channel: 00000002 by (35FEA8C0,00000001)
+[2025/09/04 22:51:58] 37 -- Subscribe Channel: 00000003 by (35FEA8C0,00000001)
+[2025/09/04 22:52:58] 38 -- Destroy Channel: <00000002> \S905881792
+[2025/09/04 22:52:58] 39 -- Destroy Channel: <00000003> \B905881792
+[2025/09/04 22:52:58] 40 -- player logout: 1
+[2025/09/04 23:37:23] 41 -- player login: 1 [DienBaQUan] (35FEA8C0, 00000002)
+[2025/09/04 23:37:23] 42 -- Query ChannelID: \S from (35FEA8C0, 00000002)
+[2025/09/04 23:37:23] 43 -- Create Channel: <00000004> \S905881792
+[2025/09/04 23:37:23] 44 -- Query ChannelID: 世界 from (35FEA8C0, 00000002)
+[2025/09/04 23:37:23] 45 -- Query ChannelID: GM from (35FEA8C0, 00000002)
+[2025/09/04 23:37:23] 46 -- sync friend list: DienBaQUan (full)
+[2025/09/04 23:37:23] 47 -- Query ChannelID: \B from (35FEA8C0, 00000002)
+[2025/09/04 23:37:23] 48 -- Create Channel: <00000005> \B905881792
+[2025/09/04 23:37:23] 49 -- Subscribe Channel: 00000004 by (35FEA8C0,00000002)
+[2025/09/04 23:37:23] 50 -- Subscribe Channel: 00000005 by (35FEA8C0,00000002)
+[2025/09/04 23:41:08] 51 -- Destroy Channel: <00000004> \S905881792
+[2025/09/04 23:41:08] 52 -- Destroy Channel: <00000005> \B905881792
+[2025/09/04 23:41:08] 53 -- player logout: 1
+[2025/09/05 08:11:56] 54 -- player login: 1 [DienBaQUan] (35FEA8C0, 00000003)
+[2025/09/05 08:11:56] 55 -- Query ChannelID: \S from (35FEA8C0, 00000003)
+[2025/09/05 08:11:56] 56 -- Create Channel: <00000006> \S905881792
+[2025/09/05 08:11:56] 57 -- Query ChannelID: 世界 from (35FEA8C0, 00000003)
+[2025/09/05 08:11:56] 58 -- Query ChannelID: GM from (35FEA8C0, 00000003)
+[2025/09/05 08:11:56] 59 -- Query ChannelID: \B from (35FEA8C0, 00000003)
+[2025/09/05 08:11:56] 60 -- Create Channel: <00000007> \B905881792
+[2025/09/05 08:11:56] 61 -- sync friend list: DienBaQUan (full)
+[2025/09/05 08:11:56] 62 -- Subscribe Channel: 00000006 by (35FEA8C0,00000003)
+[2025/09/05 08:11:56] 63 -- Subscribe Channel: 00000007 by (35FEA8C0,00000003)
+[2025/09/05 13:07:24] 64 -- Destroy Channel: <00000006> \S905881792
+[2025/09/05 13:07:24] 65 -- Destroy Channel: <00000007> \B905881792
+[2025/09/05 13:07:24] 66 -- player logout: 1
+[2025/09/05 16:32:05] 67 -- player logout: 1
+[2025/09/05 16:33:20] 68 -- player login: 1 [DienBaQUan] (35FEA8C0, 00000005)
+[2025/09/05 16:33:20] 69 -- Query ChannelID: \S from (35FEA8C0, 00000005)
+[2025/09/05 16:33:20] 70 -- Create Channel: <00000008> \S905881792
+[2025/09/05 16:33:20] 71 -- Query ChannelID: 世界 from (35FEA8C0, 00000005)
+[2025/09/05 16:33:20] 72 -- sync friend list: DienBaQUan (full)
+[2025/09/05 16:33:20] 73 -- Query ChannelID: GM from (35FEA8C0, 00000005)
+[2025/09/05 16:33:20] 74 -- Query ChannelID: \B from (35FEA8C0, 00000005)
+[2025/09/05 16:33:20] 75 -- Create Channel: <00000009> \B905881792
+[2025/09/05 16:33:23] 76 -- Subscribe Channel: 00000008 by (35FEA8C0,00000005)
+[2025/09/05 16:33:23] 77 -- Subscribe Channel: 00000009 by (35FEA8C0,00000005)
+[2025/09/05 16:34:05] 78 -- Destroy Channel: <00000008> \S905881792
+[2025/09/05 16:34:05] 79 -- Destroy Channel: <00000009> \B905881792
+[2025/09/05 16:34:05] 80 -- player logout: 1
+[2025/09/05 16:44:05] 81 -- host connect close: 192.168.254.53
+[2025/09/05 16:44:05] 82 -- chat connect close: 192.168.254.53
+[2025/09/05 16:44:05] 81 -- tong connect close: 192.168.254.53
+[2025/09/05 16:44:05] 83 -- gateway client close: 192.168.254.53
+[2025/09/05 16:44:13] 84 -- Uninitializing ...
+[2025/09/05 16:44:13] 85 -- SockThread stop success
+[2025/09/05 16:44:13] 86 -- chat server shutdown
+[2025/09/05 16:44:13] 87 -- tong server shutdown
+[2025/09/05 16:44:13] 88 -- host server shutdown
+[2025/09/05 16:44:13] 89 -- relay server shutdown
+[2025/09/05 16:44:13] 90 -- store someone: DienBaQUan
+[2025/09/05 16:44:13] 91 -- Uninitialize OK
+
+*
+***** S3Relay Stop (@ 2025/09/05 16:44:13.083) <<<<<
+*
+

@@ -1,0 +1,849 @@
+mysqld-max: ready for connections
+mysqld-max: ready for connections
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030220 18:59:20  MySql: Normal shutdown
+
+030220 18:59:20  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030220 19:09:43  MySql: Normal shutdown
+
+030220 19:09:43  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030220 21:40:42  MySql: Normal shutdown
+
+030220 21:40:43  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030221 19:23:37  MySql: Normal shutdown
+
+030221 19:23:38  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030222 19:45:35  MySql: Normal shutdown
+
+030222 19:45:39  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030223 11:27:35  MySql: Normal shutdown
+
+030223 11:27:36  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030224 15:18:09  MySql: Normal shutdown
+
+030224 15:18:15  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030224 15:21:33  MySql: Normal shutdown
+
+030224 15:21:33  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030224 15:46:57  MySql: Normal shutdown
+
+030224 15:46:57  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030224 20:46:32  MySql: Normal shutdown
+
+030224 20:46:32  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030224 22:14:11  MySql: Normal shutdown
+
+030224 22:14:11  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030225 21:55:02  MySql: Normal shutdown
+
+030225 21:55:03  MySql: Shutdown Complete
+
+MySql: ready for connections
+MySql: ready for connections
+MySql: ready for connections
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030226 22:12:20  MySql: Normal shutdown
+
+030226 22:12:20  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030228 14:19:18  MySql: Normal shutdown
+
+030228 14:19:24  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030228 22:54:49  MySql: Normal shutdown
+
+030228 22:54:49  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030302 23:13:26  MySql: Normal shutdown
+
+030302 23:13:27  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030303 23:11:21  MySql: Normal shutdown
+
+030303 23:11:23  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030304 21:33:03  MySql: Normal shutdown
+
+030304 21:33:04  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030305 23:07:20  MySql: Normal shutdown
+
+030305 23:07:21  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030306  0:12:23  MySql: Normal shutdown
+
+030306  0:12:26  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030306  9:50:47  MySql: Normal shutdown
+
+030306  9:50:48  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030306 14:52:50  MySql: Normal shutdown
+
+030306 14:52:58  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030306 15:28:32  MySql: Normal shutdown
+
+030306 15:28:37  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030306 23:54:44  MySql: Normal shutdown
+
+030306 23:54:45  MySql: Shutdown Complete
+
+MySql: ready for connections
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030307 18:32:25  MySql: Normal shutdown
+
+030307 18:32:26  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030307 22:55:51  MySql: Normal shutdown
+
+030307 22:55:53  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030307 23:07:23  MySql: Normal shutdown
+
+030307 23:07:26  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030308 14:15:41  MySql: Normal shutdown
+
+030308 14:15:47  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030308 23:54:41  MySql: Normal shutdown
+
+030308 23:54:48  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030309 22:17:21  MySql: Normal shutdown
+
+030309 22:17:21  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030311  0:05:26  MySql: Normal shutdown
+
+030311  0:05:33  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030311 23:35:01  MySql: Normal shutdown
+
+030311 23:35:11  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030312 21:07:53  MySql: Normal shutdown
+
+030312 21:07:55  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030314 22:02:09  MySql: Normal shutdown
+
+030314 22:02:18  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030315 21:48:34  MySql: Normal shutdown
+
+030315 21:48:34  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030316 11:34:37  MySql: Normal shutdown
+
+030316 11:34:44  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030316 13:39:39  MySql: Normal shutdown
+
+030316 13:39:39  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030316 21:39:06  MySql: Normal shutdown
+
+030316 21:39:06  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030317 22:09:18  MySql: Normal shutdown
+
+030317 22:09:20  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030318 18:56:59  MySql: Normal shutdown
+
+030318 18:57:06  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030318 19:06:34  MySql: Normal shutdown
+
+030318 19:06:35  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030318 21:59:15  MySql: Normal shutdown
+
+030318 21:59:17  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030319 21:53:37  MySql: Normal shutdown
+
+030319 21:53:38  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030319 22:07:01  MySql: Normal shutdown
+
+030319 22:07:01  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030320  9:57:46  MySql: Normal shutdown
+
+030320  9:57:46  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030320 10:29:02  MySql: Normal shutdown
+
+030320 10:29:02  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030320 23:43:18  MySql: Normal shutdown
+
+030320 23:43:30  MySql: Shutdown Complete
+
+MySql: ready for connections
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030321 11:02:36  MySql: Normal shutdown
+
+030321 11:02:36  MySql: Shutdown Complete
+
+MySql: ready for connections
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030321 11:25:24  MySql: Normal shutdown
+
+030321 11:25:24  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030321 11:42:54  MySql: Normal shutdown
+
+030321 11:42:54  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030321 17:27:38  MySql: Normal shutdown
+
+030321 17:27:40  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030322  8:35:34  MySql: Normal shutdown
+
+030322  8:35:35  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030323 21:19:53  MySql: Normal shutdown
+
+030323 21:19:57  MySql: Shutdown Complete
+
+MySql: ready for connections
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030324 22:30:29  MySql: Normal shutdown
+
+030324 22:30:29  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030324 23:41:24  MySql: Normal shutdown
+
+030324 23:41:25  MySql: Shutdown Complete
+
+MySql: ready for connections
+Cannot initialize InnoDB as 'innodb_data_file_path' is not set.
+If you do not want to use transactional InnoDB tables, add a line
+skip-innodb
+to the [mysqld] section of init parameters in your my.cnf
+or my.ini. If you want to use InnoDB tables, add to the [mysqld]
+section, for example,
+innodb_data_file_path = ibdata1:10M:autoextend
+But to get good performance you should adjust for your hardware
+the InnoDB startup options listed in section 2 at
+http://www.innodb.com/ibman.html
+030325 10:04:06  MySql: Normal shutdown
+
+030325 10:04:06  MySql: Shutdown Complete
+

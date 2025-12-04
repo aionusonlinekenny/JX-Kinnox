@@ -1,0 +1,23 @@
+EqName	FreeStand1	FreeStand2	FreeStand3	MeleeWStand	RangeWStand	DoubleWStand	FreeWalk	NormalWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	FreeRun	NormalRun	MeleeWRun	RangeWRun	DoubleWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	FreeAttack	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	DartThrow	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SitDown	Jump	RideStand	RideWalk	RideRun	RideCut	RidePuncture	RideMagic	RideWound	RideDie	RideStand1	RideStand2
+ph«n Æ«u 01
+ph«n Æ«u 02
+ph«n Æ«u 03
+ph«n Æ«u 04
+ph«n Æ«u 05
+ph«n Æ«u 06
+ph«n Æ«u 07
+ph«n Æ«u 08
+ph«n Æ«u 09
+ph«n Æ«u 10
+ph«n Æ«u 11
+ph«n Æ«u 12	120,8,1	120,8,1	88,8,1	88,8,1	88,8,1	88,8,1	120,8,1	120,8,1	120,8,1	120,8,1	120,8,1	88,8,1	88,8,1	88,8,1	88,8,1	88,8,1	72,8,1	64,8,1	56,8,1	96,8,1	96,8,1	88,8,1	120,8,1	144,8,1	144,8,1	128,8,1	112,8,1	96,8,1	96,8,1	128,8,1	96,8,1	128,8,1	96,8,1	96,8,1	104,8,1	128,8,1	72,8,1	160,8,1	112,8,1	96,8,1	80,8,1	96,8,1	112,8,1	96,8,1	48,8,1		112,8,1	112,8,1
+ph«n Æ«u 13
+ph«n Æ«u 14
+ph«n Æ«u 15
+ph«n Æ«u 16																																					72,8,1
+ph«n Æ«u 17
+ph«n Æ«u 18
+ph«n Æ«u 19	120,8,1	120,8,1	88,8,1	88,8,1	88,8,1	88,8,1	120,8,1	120,8,1	120,8,1	120,8,1	120,8,1	88,8,1	88,8,1	88,8,1	88,8,1	88,8,1	72,8,1	64,8,1	56,8,1	96,8,1	96,8,1	88,8,1	120,8,1	144,8,1	144,8,1	128,8,1	112,8,1	96,8,1	96,8,1	128,8,1	96,8,1	128,8,1	96,8,1	96,8,1	104,8,1	128,8,1	72,8,1	160,8,1	112,8,1	96,8,1	80,8,1	96,8,1	112,8,1	96,8,1	48,8,1		112,8,1	112,8,1
+ph«n Æ«u 20
+ph«n Æ«u 21
+ph«n Æ«u 22
